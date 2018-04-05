@@ -1,0 +1,14 @@
+[ignore]
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+  suppress_comment=.*\\$FlowFixMe
+  suppress_comment=.*\\$FlowInvalidInputTest
+  suppress_comment=.*\\$FlowIgnore
+
+[strict]
