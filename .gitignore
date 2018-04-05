@@ -16,3 +16,4 @@ npm-debug.log
 .cache
 .parcelCache
 package-lock.json
+yarn-error.log
